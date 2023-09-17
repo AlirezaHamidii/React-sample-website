@@ -1,0 +1,37 @@
+.team-container1 {
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.team-container2 {
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+.teamimage {
+    height: 70vh;
+    width: 100%;
+    opacity: 0.6;
+    transition: all 0.2s linear;
+    cursor: pointer;
+    border-radius: 0 15rem;
+}
+
+
+
+.teamimage:hover {
+    opacity: 1;
+    box-shadow: 0 20px 20px 0 black;
+}
+
+.team-generator {
+    margin: 2rem 2rem;
+}
+
+.team-generator p {
+    margin-bottom: 4rem;
+}

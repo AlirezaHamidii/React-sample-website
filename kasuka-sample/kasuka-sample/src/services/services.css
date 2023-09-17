@@ -1,0 +1,44 @@
+.row1 {
+    display: flex;
+    width: 70%;
+    margin: auto;
+    justify-content: center;
+    color: grey;
+}
+
+.row2 {
+    display: flex;
+    width: 70%;
+    margin: auto;
+    justify-content: center;
+    color: grey;
+}
+
+.row3 {
+    display: flex;
+    width: 70%;
+    margin: auto;
+    justify-content: center;
+    color: grey;
+}
+
+.services-container {
+    border: 1px solid cadetblue;
+    width: 30%;
+    height: 25vh;
+    margin-top: 4rem;
+    margin-right: 3rem;
+    padding: 2rem;
+    transition: all 0.2s linear;
+}
+
+.services-container i {
+    font-size: 3rem;
+}
+
+.services-container:hover {
+    box-shadow: 0 10px 10px 0 rgb(87, 87, 87);
+    cursor: pointer;
+    color: black;
+    background-color: aliceblue;
+}

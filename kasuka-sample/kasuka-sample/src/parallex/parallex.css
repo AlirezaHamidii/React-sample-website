@@ -1,0 +1,39 @@
+.parallex-image {
+    margin: 4rem 0;
+    background-image: url('https://www.home-designing.com/wp-content/uploads/2022/04/modern-dark-interior-design.jpg');
+    min-height: 50vh;
+    width: 100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.parallex-image p{
+    color: white;
+    letter-spacing: 0.7rem;
+    background-color: rgba(88, 88, 88, 0.548);
+    font-weight: bold;
+    padding:calc(20vh - 2pt);
+    font-size: 5rem;
+}
+
+.parallex-image2 {
+    margin: 4rem 0;
+    background-image: url('https://images.squarespace-cdn.com/content/v1/5ac2ddf285ede15e39a57666/6df61013-32a3-4f92-ba6e-c188a908b907/Design-Anthology-2022-04+Light+_+Dark+apartment%2C+Tainan+-+Degree+Design-Degree_Design_BBBLACK-094.jpg');
+    min-height: 50vh;
+    width: 100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+.parallex-image2 p{
+    color: white;
+    letter-spacing: 0.7rem;
+    background-color: rgba(88, 88, 88, 0.411);
+    font-weight: bold;
+    padding:calc(20vh - 2pt);
+    font-size: 5rem;
+}

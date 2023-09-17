@@ -1,0 +1,18 @@
+
+.intro-img{
+    width: 60%;
+    height: 70vh;
+}
+.intro{
+    margin: auto;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:5rem ;
+}
+.intro p{
+    margin-left: 2rem;
+    text-align: center;
+    text-align: justify;
+}
