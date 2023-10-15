@@ -1,8 +1,9 @@
 import './extra.css'
-export default function DetailLine({title , detail}){
+
+export default function DetailLine({icon, title , detail}){
     return(
         <div className='container'>
-            <i className='fa fa-soccer-ball-o'></i>
+            <i>{icon}</i>
             <div className='text'>
                 <h2>{title}</h2>
                 <p>{detail}</p>

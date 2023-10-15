@@ -7,15 +7,17 @@
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size: cover;
 }
-.parallex-image p{
+
+.parallex-image p {
     color: white;
     letter-spacing: 0.7rem;
-    background-color: rgba(88, 88, 88, 0.548);
+    background-color: rgba(36, 36, 36, 0.733);
     font-weight: bold;
-    padding:calc(20vh - 2pt);
+    padding: calc(20vh - 2pt);
     font-size: 5rem;
+    text-shadow: 0 10px 20px red, 0 15px 25px black, 0 10px 30px gold;
 }
 
 .parallex-image2 {
@@ -27,13 +29,6 @@
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size:cover;
+    background-size: cover;
 }
-.parallex-image2 p{
-    color: white;
-    letter-spacing: 0.7rem;
-    background-color: rgba(88, 88, 88, 0.411);
-    font-weight: bold;
-    padding:calc(20vh - 2pt);
-    font-size: 5rem;
-}
+

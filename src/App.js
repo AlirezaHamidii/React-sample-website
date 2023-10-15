@@ -1,13 +1,13 @@
 import './App.css';
-import Header from './header/header';
-import Intro from './introduction/introduction';
-import SliderContainer from './slider/slider-container';
-import Extra from './extra/extra';
-import Services from './services/services';
-import Parallex from './parallex/parallex';
-import Team from './team/team';
-import Parallex2 from './parallex/parallex2';
-import Contact from './contact/contact';
+import Header from './component/contact/header/header';
+import Intro from './component/contact/introduction/introduction';
+import SliderContainer from './component/contact/slider/slider-container';
+import Extra from './component/contact/extra/extra';
+import Services from './component/contact/services/services';
+import Parallex from './component/contact/parallex/parallex';
+import Team from './component/contact/team/team';
+import Parallex2 from './component/contact/parallex/parallex2';
+import Contact from './component/contact/contact/contact';
 
 function App() {
   return (

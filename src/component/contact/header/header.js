@@ -5,10 +5,10 @@ import Boxes from './headerBoxes'
 export default function Header(){
     const info = [
         { id: 1 ,icone:'fa fa-cloud' , title: 'CLOUD', date: 'November' },
-        { id: 2 ,icone:'fa fa-user' , title: 'USER', date: 'March' },
+        { id: 2 ,icone:'fa fa-user' , title: 'USER', date: 'April' },
         { id: 3 ,icone:'fa fa-list' ,title: 'LIST', date: 'December' },
         { id: 4 ,icone:'fa fa-check' ,title: 'CHECK', date: 'February' },
-        { id: 5 ,icone:'fa fa-coffee' ,title: 'COFFEE', date: 'April' },
+        { id: 5 ,icone:'fa fa-coffee' ,title: 'COFFEE', date: 'March' },
     ]
     return(
         <div className='header'>

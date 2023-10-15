@@ -1,4 +1,4 @@
-import './introduction.css'
+    import './introduction.css'
 export default function Intro(){
     return(
         <div className='intro'>
